@@ -1,0 +1,30 @@
+.bld{
+    font-weight:bold;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .seo{
+    font-weight:bold;
+  }
+  .fmt{
+      margin:10px;
+  }
+  .bck{
+      width:auto;
+      height:auto;
+      background-color: rgb(243, 245, 247);
+      padding:10px;
+      border:solid 1px #C0C0C0;
+      
+  }
+  .im{
+    width:auto;height:auto;
+    
+  }
+  .mar{
+    margin-top:10px;
+  }
