@@ -1,6 +1,5 @@
 import { Component, OnInit, ElementRef, ViewChild } from '@angular/core';
 import * as THREE from 'three';
-// import './js/StartThree';
 
 @Component({
   selector: 'app-geometry-demo',

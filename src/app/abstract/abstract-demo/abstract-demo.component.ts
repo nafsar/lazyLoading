@@ -1,6 +1,5 @@
 import { Component, OnInit, ViewChild, ElementRef, AfterViewInit } from '@angular/core';
 import * as THREE from 'three';
-// import './js/StartThree';
 
 @Component({
   selector: 'app-abstract-demo',
