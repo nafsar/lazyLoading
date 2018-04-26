@@ -56,8 +56,6 @@ export class GeometryDemoComponent implements OnInit {
     (function render() {
       requestAnimationFrame(render);
       animate.renderer.render(animate.scene, animate.camera);
-     /*  animate.donut.rotateX(0.1);
-      animate.donut.rotateY(0.1); */
       animate.donut.position.addScalar(0.1);
     })();
   }
